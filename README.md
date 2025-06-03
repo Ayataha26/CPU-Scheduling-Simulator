@@ -20,3 +20,7 @@ Requirements
 Python 3.x
 tkinter (comes pre-installed with Python)
 matplotlib
+
+📚 Educational Value
+
+This simulator helps students and learners visualize how Round Robin scheduling works, understand context switching, and evaluate performance metrics for CPU-bound tasks.
